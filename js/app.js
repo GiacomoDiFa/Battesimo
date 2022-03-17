@@ -6,7 +6,5 @@
 	 };
 	 
 	 emailjs.send('service_7lbtvqo','template_52jm35t',tempParams)
-	 .then(function(res){
-		 console.log("success",res.status);
- })
+	 .then((message) => alert("Form compilato correttamente, il messaggio è arrivato a destinazione! Grazie!"))
 }
