@@ -60,6 +60,15 @@ input, textarea {
 	-moz-border-radius: 0px !important;
 	-o-border-radius: 0px !important;
 }
+.drive-link
+{
+	text-decoration-color: #000;
+}
+.drive-link-input
+{
+	font-style: oblique;
+	color: #000;
+}
 #load {
 	width: 100%;
 	height: 100%;
@@ -279,7 +288,7 @@ input, textarea {
 	background-size: cover;
 }
 .bg-home {
-	background: url(../images/ettore/sorrisos.png) no-repeat center center;
+	background: url(../images/ettore/sorriso.jpeg) no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
